@@ -1,0 +1,1 @@
+Inferential statistical analysis of an Alzheimer’s disease dataset using Python (Jupyter Notebook). Includes one-sample t-test, two-sample t-test, and one-way ANOVA with interpretations and case study report 
